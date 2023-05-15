@@ -1,0 +1,44 @@
+.logo{
+    margin-right: 10px;
+    border: 2px white;
+    border-style: solid;
+    border-radius: 50%;
+    padding: 5px;
+}
+
+.footer {
+    background-color:  #231F20;
+    color: white;
+    position: inherit;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+  }
+
+  .title{
+      flex-grow: 1;
+      font-family: 'Bebas Neue', cursive;
+      font-size: 259%;
+      margin: 6px;
+  }
+
+  .icon{
+      margin-right: 15px;
+  }
+  .error-modal{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+
+  .modal-content{
+    background-color:white;
+    padding: 25px;
+    border-radius: 10px;
+  }
+
+  #root{
+    min-width: fit-content;
+  }

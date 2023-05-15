@@ -1,0 +1,1 @@
+npm run build && Xcopy /E /I /Y .\build ..\..\Backend\CouchPotatoesApi\build

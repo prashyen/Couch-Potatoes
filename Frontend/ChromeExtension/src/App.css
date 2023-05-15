@@ -1,0 +1,13 @@
+#root{
+  width: 320px;
+  height: 430px;
+  background-color: antiquewhite;
+}
+
+.logo{
+  margin-right: 10px;
+  border: 2px white;
+  border-style: solid;
+  border-radius: 50%;
+  padding: 5px;
+}
